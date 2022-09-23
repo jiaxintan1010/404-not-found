@@ -1,18 +1,16 @@
 <h1>404 Not Found</h1>
+<p>Solution for a challenge from  <a href="https://devchallenges.io/">devChallenges.io</a>.</p>
+<p>Create a responsive web page '404 Not Found'.</p>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+<h2>Built With</h2>
+<ul>
+   <li>HTML</li>
+   <li>CSS</li>
+</ul>
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-  </h3>
-</div>
+<h2>Demo</h2>
+View <a href="https://{your-demo-link.your-domain}">here</a>
 
-### Built With
+<h2>Desktop View</h2>
 
-- [HTML](https://reactjs.org/)
-- [CSS](https://vuejs.org/)
+<h2>Mobile View</h2>
